@@ -8,3 +8,5 @@ Oyun içerisinde bu kurulumu verimli bir şekilde kullanabilen oyuncu sayısı b
 Oyun esnasında kurulum yapamayan oyuncuların uygulama üzerinden oynayacakları karakterleri belirleyip ardından oynadıkları haritayı seçip buradan istedikleri kurulumların görsellere ulaşabilirler
 
 Dosya ebadı büyüklüğünden dolayı Google Drive üzerinden .apk dosyasını paylaşmaktım.
+
+https://drive.google.com/drive/folders/136cfX3FMDtQpEqhv_xaiOQSee8KPlhlZ?usp=sharing
